@@ -1,5 +1,5 @@
 # Open3D-tests
-Open3D python basic and advanced tests (2021)
+Open3D python basic and advanced tests
 
 Source library: [Open3D](https://github.com/intel-isl/Open3D)
 
